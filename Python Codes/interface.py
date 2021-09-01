@@ -1,5 +1,5 @@
 
-import subprocess, runpy, serial, os, PySimpleGUI as sg
+import os, PySimpleGUI as sg
 from PySimpleGUI.PySimpleGUI import Col
 
 
