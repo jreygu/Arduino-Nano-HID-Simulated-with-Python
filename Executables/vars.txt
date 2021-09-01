@@ -1,1 +1,1 @@
-COM10,,,,,,,,,
+COM10,C:\Users\Roberto Reyes\AppData\Roaming\Spotify\Spotify.exe.,C:\Users\Roberto Reyes\AppData\Local\Programs\Microsoft VS Code\Code.exe,C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe,C:/Program Files (x86)/Minecraft Launcher/MinecraftLauncher.exe,C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE,C:\WINDOWS\system32\notepad.exe,C:/,G:/,
